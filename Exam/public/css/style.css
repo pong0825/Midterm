@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.con {
+    margin-top: 150px;
+    width: -1000px;
+    overflow: hidden;
+}
+
+.form {
+    margin-left: 10px;
+    width: 250px;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.txt {
+    margin-left: 30px;
+}
+
+.answer {
+    margin-top: 20px;
+    min-width: 100%;
+}
+
